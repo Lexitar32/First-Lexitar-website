@@ -1,0 +1,93 @@
+/* ABOUT STYLING */
+img{
+  max-width:500px;
+  max-height:500px;
+  border-radius:50%;
+}
+
+.wrapper{
+  margin:0 auto;
+  width:80%;
+}
+
+ul,li{
+  list-style:none;
+  padding:0;
+}
+
+.header,.team-1{
+  color:#17a2b8;
+  font-size:30px;
+}
+
+#departments,.purpose{
+  font-size:18px;
+  line-height:1.4;
+}
+
+.dept{
+  color:#17a2b8;
+  font-size:30px;
+}
+
+.bg{
+  background-color:#17a2b8;
+  text-align:center;
+  color:white;
+  position:relative;
+}
+
+.skills{
+  display:flex;
+  margin-left:450px;
+}
+
+.html{
+  padding:8px;
+}
+
+.set{
+  text-transform:uppercase;
+}
+ 
+.name{
+  color:#17a2b8;
+  font-size:23px;
+}
+
+.ola{
+  font-size:28px;
+}
+
+.senior{
+  font-size:20px;
+}
+
+.grid{
+  display:grid;
+  grid-template-columns:2fr 2fr;
+  grid-gap:1em;
+}
+
+.experience,.education{
+  background:#e6e6e6;
+  margin-bottom:1rem;
+  padding:1rem;
+  border:1px dotted #ccc;
+}
+
+.google,.microsoft,.exp,.back{
+  text-transform:uppercase;
+  text-decoration:underline;
+}
+
+.unilag{
+  border-bottom:1px dotted #ccc;
+}
+
+footer{
+  background:#e6e6e6;
+  text-align:center;
+  padding:10px;
+  font-size:18px;
+}

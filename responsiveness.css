@@ -1,0 +1,267 @@
+/* Responsiveness */
+/* i-pad pro */
+@media(max-width:1024px){
+  .skills{
+    margin-left:160px;
+  }
+  .senior{
+    line-height:1.4;
+  }
+  .split{
+    grid-template-columns:4fr;
+  }
+  .sidebar{
+    margin:auto;
+    width:80%;
+    margin-bottom:15px;
+  }
+}
+
+ /* i-pad */
+@media(max-width:768px){
+  .display{
+    display:inline-block;
+    width:100%;
+  }
+
+  .lexitar{
+    text-align:center;
+    font-size:33px;
+  }
+  
+  .nav-1{
+    margin-left:195px;
+    font-size:22px;
+  }
+
+  .skills{
+    margin:auto;
+    width:50%;
+  }
+
+  .ola{
+    font-size:25px;
+  }
+
+  .senior{
+    font-size:20px;
+    line-height:1.4;
+  }
+
+  .grid{
+    grid-template-columns:4fr;
+  }
+
+  .experience{
+    margin-top:20px;
+  }
+
+  .split{
+    grid-template-columns:4fr;
+  }
+
+  .sidebar{
+    margin-bottom:15px;
+  }
+}
+
+/* i-phone */
+@media(max-width:375px){
+  .display{
+    line-height:1.4;
+  }
+  .lexitar{
+    font-size:20px;
+    text-align:center;
+    margin-left:0;
+  }
+  .nav-1{
+    font-size:13px;
+    margin-left:50px;
+  }
+  .showcase{
+    background:url(blur.jpg) no-repeat 0 -450px;
+    text-align:center;
+  }
+  .lead{
+    font-size:25px;
+  }
+  .small{
+    font-size:16px;
+  }
+  .header{
+    font-size:22px;
+  }
+  .purpose{
+    font-size:14px;
+  }
+  #departments{
+    font-size:14px;
+  }
+  .dept{
+    font-size:22px;
+  }
+  .team-1{
+    font-size:22px;
+  }
+  .name{
+    font-size:22px;
+  }
+  img{
+    max-width:300px;
+    max-height:300px;
+  }
+  .ola{
+    font-size:18px;
+  }
+  .senior{
+    font-size:13px;
+  }
+  .skills{
+    display:block;
+  }
+  .page-title{
+    font-size:23px;
+  }
+  .deploy{
+    font-size:16px;
+  }
+}
+
+/* Nexus 5x, i-phone 6/7 */
+@media(max-width:414px){
+  .lexitar{
+    font-size:20px;
+  }
+  .nav-1{
+    font-size:13px;
+    margin-left:75px;
+  }
+  .lead{
+    font-size:26px;
+  }
+  .small{
+    font-size:17px;
+  }
+  .header{
+    font-size:22px;
+  }
+  .purpose{
+    font-size:16px;
+  }
+  #departments{
+    font-size:16px;
+  }
+  .dept{
+    font-size:22px;
+  }
+  .team-1{
+    font-size:22px;
+  }
+  .name{
+    font-size:20px;
+  } 
+  img{
+    max-width:300px;
+    max-height:300px;
+  }
+  .ola{
+    font-size:20px;
+  }
+  .senior{
+    font-size:16px;
+  }
+  .icons{
+    font-size:12px;
+    min-width:90%;
+  }
+  .skills{
+    display:block;
+  }
+  .page-title{
+    font-size:22px;
+  }
+  .deploy{
+    font-size:18px;
+  }
+}
+
+/* NOKIA LUMIA */
+@media(max-width:320px){
+  .lexitar{
+    font-size:15px;
+  }
+  .nav-1{
+    font-size:10px;
+    margin-left:48px;
+  }
+  .showcase{
+    background:url(blur.jpg) no-repeat 0 -450px;
+  }
+  .lead{
+    font-size:18px;
+  }
+  .small{
+    font-size:13px;
+  }
+  .header{
+    font-size:18px;
+  }
+  .purpose{
+    font-size:13px;
+  }
+  #departments{
+    font-size:13px;
+  }
+  .dept{
+    font-size:18px;
+  }
+  .team-1{
+    font-size:18px;
+  }
+  .name{
+    font-size:15px;
+  }
+  .ola{
+    font-size:15px;
+  }
+  .senior{
+    font-size:13px;
+  }
+  .skills{
+    font-size:15px;
+  }
+  .grid{
+    font-size:13px;
+  }
+  .education{
+    font-size:13px;
+  }
+  footer{
+    font-size:13px;
+  }
+  .page-title{
+    font-size:18px;
+  }
+  .web,.mobile{
+    font-size:12px;
+  }
+  .deploy{
+    font-size:13px;
+  }
+}
+
+@media(max-width:800px){
+  .skills{
+    margin-left:100px;
+  }
+}
+
+@media(max-width:384px){
+  .nav-1{
+    margin-left:60px;
+  }
+  .skills{
+    margin-left:75px;
+  }
+}
