@@ -47,7 +47,7 @@ a:hover{
 
 /* Showcase Styling */
 .showcase{
-  background:url(blur.jpg) no-repeat 0 -150px;
+  background:url(/img/blur.jpg) no-repeat 0 -150px;
   text-align:center;
 }
 
